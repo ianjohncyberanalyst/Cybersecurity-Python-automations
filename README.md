@@ -1,2 +1,2 @@
 # Cybersecurity-Python-automations
-A compilation of automated scripts I've created
+A compilation of python scripts I've created
